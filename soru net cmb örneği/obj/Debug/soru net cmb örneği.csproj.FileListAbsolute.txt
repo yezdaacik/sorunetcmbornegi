@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\soru net cmb örneği\soru net cmb örneği\obj\Debug\soru net cmb örneği.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\soru net cmb örneği\soru net cmb örneği\obj\Debug\soru net cmb örneği.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\soru net cmb örneği\soru net cmb örneği\obj\Debug\soru_net_cmb_örneği.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\soru net cmb örneği\soru net cmb örneği\obj\Debug\soru_net_cmb_örneği.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\soru net cmb örneği\soru net cmb örneği\obj\Debug\soru net cmb örneği.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\soru net cmb örneği\soru net cmb örneği\obj\Debug\soru net cmb örneği.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\soru net cmb örneği\soru net cmb örneği\bin\Debug\soru net cmb örneği.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\soru net cmb örneği\soru net cmb örneği\bin\Debug\soru net cmb örneği.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\soru net cmb örneği\soru net cmb örneği\bin\Debug\soru net cmb örneği.pdb
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\soru net cmb örneği\soru net cmb örneği\obj\Debug\soru net cmb örneği.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\soru net cmb örneği\soru net cmb örneği\obj\Debug\soru net cmb örneği.pdb
